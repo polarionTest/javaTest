@@ -5,7 +5,7 @@ class Main {
   public static void main(String[] args) {
       System.out.println("Hello world!");
       /**
-      * @wi.implements desk/KSED-122543:outputs hello world
+      * @wi.implements desk/KSED-122495:outputs hello world
       */
   }
 }
