@@ -2,6 +2,10 @@
 * @wi.implements desk/KSED-122491:outputs hello world
 */
 class Main {
+
+  /**
+  * @wi.implements desk/KSED-122655:outputs something diff
+  */
   public static void main(String[] args) {
       /**
       * @wi.implements desk/KSED-122415:outputs hello world
