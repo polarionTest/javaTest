@@ -1,5 +1,5 @@
 /**
-* @wi desk/KSED-122872
+* @wi KSED-122872
 */
 
 class Main {
