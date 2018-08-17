@@ -1,5 +1,5 @@
 /**
-* @wi KSED-122872
+* @wi desk/KSED-122872: hello world
 */
 
 class Main {
