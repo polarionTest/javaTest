@@ -1,7 +1,5 @@
 /**
-* {@wi desk/KSED-122867 Testing the messaging
-* this is more commit message
-* }
+* @wi desk/KSED-122867 Testing the messaging
 */
 class Main {
   public static void main(String[] args) {
