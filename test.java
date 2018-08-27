@@ -1,5 +1,5 @@
 /**
-* @wi.implements desk/KSED-122857:164 Returns author of this book
+* @wi desk/KSED-122857 Testing the messaging
 */
 class Main {
   public static void main(String[] args) {
