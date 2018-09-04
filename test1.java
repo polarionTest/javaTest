@@ -1,5 +1,5 @@
 /**
-* @wi gitgitgit/GIT-GIT-373: hello world
+* @wi desk/KSED-122906: hello world
 */
 
 class Main {
