@@ -1,5 +1,5 @@
 /**
-* @wi desk/KSED-122903 testing message
+* @wi gitgitgit/GIT-GIT-372 testing message
 */
 class Main {
   public static void main(String[] args) {
