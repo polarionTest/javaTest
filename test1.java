@@ -1,6 +1,7 @@
 /**
-* @wi desk/KSED-122909 asdf
+* @wi.implements gitAurora/GITA-372:asdf asdf asd
 */
+
 class Main {
   public static void main(String[] args) {
     System.out.println("Hello world!");
