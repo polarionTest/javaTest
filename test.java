@@ -1,27 +1,15 @@
-/**
-* @wi.implements gitAurora/GITA-372:164 Returns author of this book
-*/
+
+// Main class
 class Main {
+
+  // main method
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+
+      // logging "Hello world!"
+      System.out.println("Hello world!");
 
 
-    
   }
 
-
-
-
-
-
-
-
-
-
-
-
-  /**
-  * @wi.implements gitAurora/GITA-372:165 Another commit in the main class
-  */
 
 }
